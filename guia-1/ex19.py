@@ -1,0 +1,10 @@
+paciente1 = (10, "Juan perez", 30, "Diabetes")
+paciente2 = (11, "Maria Gomez", 19, "Hipotiroidismo")
+paciente3 = (12, "Jorge Gonzales", 39, "insuficiencia cardíaca")
+paciente4 = (13, "Juana Garcia", 42, "escoliosis")
+paciente5 = (14, "Martin López", 37, "lupus")
+
+print("Codigo: ", paciente1[0], "Nombre:", paciente1[1], "Edad:", paciente1[2], "Diagnostico:", paciente1[3])
+print("Codigo: ", paciente2[0], "Nombre:", paciente2[1], "Edad:", paciente2[2], "Diagnostico:", paciente2[3])
+print("Codigo: ", paciente3[0], "Nombre:", paciente3[1], "Edad:", paciente3[2], "Diagnostico:", paciente3[3])
+print("Codigo: ", paciente4[0], "Nombre:", paciente4[1], "Edad:", paciente4[2], "Diagnostico:", paciente4[3])
